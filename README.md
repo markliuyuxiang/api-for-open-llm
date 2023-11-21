@@ -118,7 +118,7 @@
 | [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) |    LLaMA     |  7/13B   | en, zh |   [ziqingyang/chinese-alpaca-plus-lora-7b](https://huggingface.co/ziqingyang/chinese-alpaca-plus-lora-7b)   |
 |             [BELLE](https://github.com/LianjiaTech/BELLE)             |    BLOOMZ    |    7B    |   zh   |                   [BelleGroup/BELLE-7B-2M](https://huggingface.co/BelleGroup/BELLE-7B-2M)                   |
 |            [ChatGLM](https://github.com/THUDM/ChatGLM-6B)             |     GLM      |    6B    | en, zh |                         [THUDM/chatglm-6b](https://huggingface.co/THUDM/chatglm-6b)                         |
-
+|            [Orionstar-Yi](https://github.com/THUDM/ChatGLM-6B)             |     LLaMA      |    34B    | en, zh |                         [OrionStarAI/OrionStar-Yi-34B-Chat](https://huggingface.co/OrionStarAI/OrionStar-Yi-34B-Chat)           
 
 **嵌入模型**
 
